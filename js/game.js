@@ -59,13 +59,7 @@ class Game{
                          
                          fill("black");
                          textSize(25);
-
-                        // Text(allPlayers[plr].name ,x-25,y+25);
-                        // text(allPlayers[plr].name ,x-25,y+25);
-                        // text(allPlayers[plr].name );
-                        // text(x-25,y+25);
-
-                         
+                         text(allPlayers[plr].name ,x-25,y+25);
                      }
                     
                          textSize(25);
